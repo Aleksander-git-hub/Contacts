@@ -45,5 +45,8 @@ public class ContactTest
         System.out.println("\tGET CONTACTS==============");
         Contact contact = contactManager.getContact(contactID1);
         System.out.println(contact);
+
+        //test
+        System.out.println();
     }
 }
